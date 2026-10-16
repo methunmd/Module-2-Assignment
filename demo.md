@@ -13,3 +13,4 @@
 3. Layer the rice flour, gur, and coconut.
 4. Steam until cooked.
 5. Serve warm.
+Serving suggestion: Serve with grated coconut.
