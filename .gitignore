@@ -1,0 +1,9 @@
+
+# Keep Nanu's secret recipe out of Git
+secret-masala.txt
+
+# Ignore all temporary files
+*.tmp
+
+# Ignore the draft folder
+draft/
